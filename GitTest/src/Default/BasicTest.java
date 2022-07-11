@@ -1,0 +1,10 @@
+package Default;
+
+public class BasicTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("김민성 바보");
+	}
+
+}
